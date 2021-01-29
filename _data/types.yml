@@ -11,3 +11,7 @@
   sub: SP
 - name: Data Mining
   sub: DM
+- name: Knowledge Graph
+  sub: KG
+- name: Graph ML
+  sub: GRML

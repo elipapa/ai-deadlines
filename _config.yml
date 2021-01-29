@@ -1,15 +1,12 @@
 title: AI Conference Deadlines # (Forked from @abhshkdz)
 description: Countdowns to top NLP/ML/KG/AI conference deadlines
-author: Abhishek Das
-
-baseurl: ""
 
 twitter_username: elipapa
 twitter_hashtag: machinelearning
-github_username: elipapa
-github_repo: ai-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
 
 include: ['_pages']
+plugins:
+  - "jekyll-github-metadata"
