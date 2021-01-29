@@ -1,14 +1,12 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+title: AI Conference Deadlines # (Forked from @abhshkdz)
+description: Countdowns to top NLP/ML/KG/AI conference deadlines
 author: Abhishek Das
 
-domain: "aideadlin.es"
 baseurl: ""
 
-twitter_username: abhshkdz
+twitter_username: elipapa
 twitter_hashtag: machinelearning
-github_username: abhshkdz
+github_username: elipapa
 github_repo: ai-deadlines
 
 markdown: kramdown
