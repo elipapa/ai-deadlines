@@ -1,17 +1,5 @@
 ---
 
-- title: SIGGRAPH
-  hindex: 19
-  year: 2021
-  id: siggraph21
-  link: https://s2021.siggraph.org/
-  abstract_deadline: '2021-01-27 22:00:00'
-  deadline: '2021-01-28 22:00:00'
-  timezone: UTC
-  date: August 1-5, 2021
-  place: Online
-  sub: CV
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 27, 2021. More info <a href=''https://s2021.siggraph.org/program/technical-papers/''>here</a>.'
 
 - title: ACL
   hindex: 135
@@ -71,38 +59,7 @@
   place: TBD
   sub: ML
 
-- title: IROS
-  hindex: 58
-  year: 2021
-  id: iros21
-  link: https://www.iros2021.org/important-dates
-  deadline: '2021-03-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: Sep 27-Oct 1, 2021
-  place: Prague, Czech Republic
-  sub: RO
 
-- title: RSS
-  hindex: 47
-  year: 2021
-  id: rss21
-  link: https://roboticsconference.org/
-  deadline: '2021-03-01 23:59:59'
-  timezone: UTC-12
-  date: Jul 12-16, 2021
-  place: Online
-  sub: RO
-
-- title: ICCV
-  hindex: 176
-  year: 2021
-  id: iccv2021
-  link: http://iccv2021.thecvf.com/
-  deadline: '2021-03-17 23:59:00'
-  timezone: America/Los_Angeles
-  date: October 11-17, 2021
-  place: Montreal, Canada
-  sub: CV
 
 - title: ECML-PKDD
   hindex: 30
@@ -117,51 +74,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 26, 2021. More info <a href=''https://2021.ecmlpkdd.org/?page_id=1599/''>here</a>.'
 
-- title: InterSpeech
-  hindex: 81
-  year: 2021
-  id: interspeech21
-  link: http://www.interspeech2021.org/
-  deadline: '2021-04-02 23:59:59'
-  timezone: UTC-12
-  date: August 30 - September 3, 2021
-  place: Brno, Czechia
-  sub: SP
-  abstract_deadline: '2021-03-26 23:59:59'
-
-- title: MM
-  hindex: 58
-  year: 2021
-  id: mm21
-  link: https://2021.acmmm.org/
-  deadline: '2021-04-03 23:59:59'
-  timezone: UTC-12
-  date: October 20-24, 2021
-  place: Chengdu, China
-  sub: CV
-
-- title: FG
-  hindex: -1
-  year: 2021
-  id: fg2021
-  link: http://iab-rubric.org/fg2021/
-  deadline: '2021-04-15 23:59:00'
-  timezone: America/Los_Angeles
-  date: December 15-18, 2021
-  place: Jodhpur, India
-  sub: CV
-  note: '<b>NOTE</b>: the 2nd round submission deadline is July 15, 2021.'
-
-- title: ICMI
-  hindex: -1
-  year: 2021
-  id: icmi2021
-  link: https://icmi.acm.org/2021/
-  deadline: '2021-05-26 23:59:00'
-  timezone: UTC-7
-  date: October 18-22, 2021
-  place: Montreal, Canada
-  sub: CV
 
 - title: ALT
   hindex: 15
@@ -174,16 +86,6 @@
   place: San Diego, CA, United States
   sub: ML
 
-- title: HRI
-  hindex: 40
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
-  sub: RO
 
 - title: LREC
   hindex: 45
@@ -196,28 +98,6 @@
   place: Marseille, France
   sub: NLP
 
-- title: ICMR
-  hindex: 33
-  year: 2020
-  id: icmr20
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
-  sub: CV
-
-- title: MIDL
-  hindex: -1
-  year: 2020
-  id: midl2020
-  link: https://2020.midl.io/
-  deadline: '2020-01-30 23:59:59'
-  timezone: UTC-12
-  date: July 6-8, 2020
-  place: Montreal, Canada
-  sub: CV
-
 - title: COLT
   hindex: 48
   year: 2020
@@ -229,16 +109,6 @@
   place: Graz, Austria
   sub: ML
 
-- title: ECCV
-  hindex: 135
-  year: 2020
-  id: eccv20
-  link: https://eccv2020.eu
-  deadline: '2020-03-05 23:59:00'
-  timezone: UTC
-  date: August 23-28, 2020
-  place: Glasgow, Scotland, UK
-  sub: CV
 
 - title: ICCC
   hindex: 22
@@ -250,44 +120,6 @@
   date: June 29-July 3, 2020
   place: Coimbra, Portugal
   sub: ML
-
-- title: MICCAI
-  hindex: 46
-  year: 2020
-  id: miccai2020
-  link: http://www.miccai2020.org/
-  deadline: '2020-03-17 23:59:59'
-  timezone: America/Los_Angeles
-  date: October 4-8, 2020
-  place: Lima, Peru
-  sub: CV
-  note: '<b>NOTE</b>: Intent to submit deadline on Mar 03, 2020. More info <a href=''https://www.miccai2020.org/''>here</a>.'
-
-- title: ISMIR
-  hindex: 32
-  year: 2020
-  id: ismir20
-  link: https://ismir.github.io/ISMIR2020/
-  deadline: '2020-04-17 23:59:59'
-  abstract_deadline: '2020-04-10 23:59:59'
-  timezone: UTC-12
-  date: October 12-15, 2020
-  place: Montreal, Canada
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
-
-- title: BMVC
-  hindex: 46
-  year: 2020
-  id: bmvc20
-  link: https://britishmachinevisionassociation.github.io/bmvc
-  deadline: '2020-04-30 23:59:59'
-  abstract_deadline: '2020-04-23 23:59:59'
-  timezone: UTC-8
-  date: September 7-11, 2020
-  place: Manchester, UK
-  sub: CV
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 23, 2020. More info <a href=''https://britishmachinevisionassociation.github.io/bmvc''>here</a>.'
 
 - title: CIKM
   hindex: 48
@@ -372,17 +204,6 @@
   place: Barcelona, Spain
   sub: NLP
 
-- title: ACCV
-  hindex: 38
-  year: 2020
-  id: accv20
-  link: http://accv2020.kyoto/
-  deadline: '2020-07-08 23:59:00'
-  timezone: UTC
-  date: November 30 - December 4, 2020
-  place: Online
-  sub: CV
-
 - title: ICPR
   hindex: 38
   year: 2020
@@ -405,27 +226,6 @@
   place: Online
   sub: NLP
 
-- title: CoRL
-  hindex: 20
-  year: 2020
-  id: corl20
-  link: http://www.robot-learning.org
-  deadline: '2020-07-28 23:59:00'
-  timezone: UTC-7
-  date: November 16-18, 2020
-  place: Online
-  sub: RO
-
-- title: 3DV
-  hindex: 29
-  year: 2020
-  id: threedv20
-  link: http://3dv2020.dgcv.nii.ac.jp/index.html
-  deadline: '2020-07-31 23:59:59'
-  timezone: America/Los_Angeles
-  date: November 25-28, 2020
-  place: Fukuoka, Japan
-  sub: CV
 
 - title: WMT
   hindex: 27
@@ -449,18 +249,6 @@
   place: Vancouver, Canada
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 01, 2020'
-
-- title: WACV
-  hindex: 46
-  year: 2021
-  id: wacv21
-  link: http://wacv2021.thecvf.com/
-  deadline: '2020-09-29 23:59:59'
-  timezone: America/Los_Angeles
-  date: January 5-9, 2021
-  place: Waikoloa, Hawaii, USA
-  sub: CV
-  note: '<b>NOTE</b>: Second round submission deadline.'
 
 - title: ICLR
   hindex: 150
@@ -523,17 +311,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2020. More info <a href=''http://www.aistats.org/aistats2021/cfp.html''>here</a>.'
 
-- title: ICASSP
-  hindex: 80
-  year: 2021
-  id: icassp21
-  link: https://2021.ieeeicassp.org/
-  deadline: '2020-10-19 23:59:59'
-  timezone: UTC
-  date: June 6-11, 2021
-  place: Toronto, Ontario, Canada
-  sub: SP
-
 - title: WWW
   hindex: 70
   year: 2021
@@ -546,28 +323,6 @@
   sub: DM
   note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
 
-- title: ICRA
-  hindex: 94
-  year: 2020
-  id: icra21
-  link: https://www.ieee-ras.org/component/rseventspro/event/1908-icra-2021-call-for-papers-deadline
-  deadline: '2020-10-31 23:59:59'
-  timezone: America/Los_Angeles
-  date: May 30-June 5, 2021
-  place: Online
-  sub: RO
-
-- title: CVPR
-  hindex: 299
-  year: 2021
-  id: cvpr21
-  link: http://cvpr2021.thecvf.com/
-  deadline: '2020-11-16 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 19-25, 2021
-  place: Nashville, USA
-  sub: CV
-
 - title: NAACL
   hindex: 90
   year: 2021
@@ -578,17 +333,6 @@
   date: June 6-11, 2021
   place: Mexico City, Mexico
   sub: NLP
-
-- title: ICME
-  hindex: 30
-  year: 2021
-  id: icme21
-  link: https://2021.ieeeicme.org/
-  deadline: '2020-11-29 23:59:59'
-  timezone: America/Los_Angeles
-  date: July 5-9, 2021
-  place: Shenzhen, China
-  sub: CV
 
 - title: ICAPS
   hindex: 28
@@ -602,17 +346,6 @@
   place: Guangzhou, China
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Dec 11, 2020. More info <a href=''https://icaps21.icaps-conference.org/''>here</a>.'
-
-- title: ICIP
-  hindex: 52
-  year: 2021
-  id: icip21
-  link: https://2021.ieeeicip.org
-  deadline: '2021-01-13 23:59:59'
-  timezone: America/Los_Angeles
-  date: September, 19-22, 2021
-  place: Anchorage, Alaska, USA
-  sub: CV
 
 - title: CHIL
   hindex: -1
