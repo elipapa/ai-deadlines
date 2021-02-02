@@ -1,0 +1,34 @@
+title,hindex,year,id,link,deadline,timezone,date,place,sub,abstract_deadline,note
+ACL,135,2021,acl21,https://2021.aclweb.org/,2021-02-01 23:59:59,UTC-12,"August 2-4, 2021","Bangkok, Thailand",NLP,,
+ICML,135,2021,icml21,https://icml.cc/Conferences/2021,2021-02-04 23:59:00,UTC-12,"July 18-24, 2021","Vienna, Austria",ML,2021-01-28 23:59:00,"<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href='https://icml.cc/Conferences/2021/'>here</a>."
+KDD,30,2021,kdd21,https://www.kdd.org/kdd2021/,2021-02-08 23:59:59,UTC-12,"August 14-18, 2021",Singapore,DM,,
+SIGIR,57,2021,sigir21,http://sigir.org/sigir2021/,2021-02-09 23:59:00,UTC-12,"July 11-15, 2021","Montreal, Canada",DM,2021-02-02 23:59:00,
+UAI,33,2021,uai21,http://auai.org/uai2021/,2021-02-19 23:59:59,UTC,"July 26-30, 2021",TBD,ML,,
+ECML-PKDD,30,2021,ecmlpkdd2021,https://2021.ecmlpkdd.org/,2021-04-02 23:59:59,UTC-12,"September 13-17, 2021","Bilbao, Basque Country (Spain)",ML,2021-03-26 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on Mar 26, 2021. More info <a href='https://2021.ecmlpkdd.org/?page_id=1599/'>here</a>."
+ALT,15,2020,alt20,http://alt2020.algorithmiclearningtheory.org/,2019-09-20 16:59:59,America/New_York,"February 08-10, 2020","San Diego, CA, United States",ML,,
+LREC,45,2020,lrec20,https://lrec2020.lrec-conf.org/en/,2019-12-02 23:59:59,Europe/Paris,"May 11-16, 2020","Marseille, France",NLP,,
+COLT,48,2020,colt20,http://www.learningtheory.org/colt2020/,2020-01-31 16:00:00,America/Los_Angeles,"June 8-12, 2020","Graz, Austria",ML,,
+ICCC,22,2020,iccc20,http://computationalcreativity.net/iccc20/,2020-03-08 23:59:59,UTC-12,"June 29-July 3, 2020","Coimbra, Portugal",ML,,
+CIKM,48,2020,cikm20,https://cikm2020.org/,2020-05-01 23:59:59,UTC-12,"October 19-23, 2020","Galway, Ireland",DM,2020-04-24 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href='https://cikm2020.org/call-for-papers-full-and-short-research-papers/'>here</a>."
+RecSys,45,2020,recsys20,https://recsys.acm.org/recsys20/,2020-06-01 23:59:59,UTC-12,"September 22-26, 2020",Online,DM,2020-05-25 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on May 25, 2020. More info <a href='https://recsys.acm.org/recsys20/dates/'>here</a>."
+EMNLP,88,2020,emnlp20,https://2020.emnlp.org/,2020-06-03 23:59:00,UTC-12,"November 16-20, 2020",Online,NLP,,
+NeurIPS,169,2020,neurips20,https://nips.cc/Conferences/2020,2020-06-05 13:00:00,America/Los_Angeles,"December 6-12, 2020","Vancouver Convention Centre, Canada",ML,2020-05-27 13:00:00,"<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020"
+ICDM,44,2020,icdm20,http://icdm2020.bigke.org/,2020-06-11 23:59:59,UTC-7,"November 17-20, 2020","Sorrento, Italy",DM,,
+AACL-IJCNLP,-1,2020,aacl20,http://aacl2020.org,2020-06-26 23:59:00,UTC-12,"December 4-7, 2020","Suzhou, China",NLP,,
+COLING,41,2020,coling20,https://coling2020.org/,2020-07-01 23:59:59,UTC-12,"December 8-13, 2020","Barcelona, Spain",NLP,,
+ICPR,38,2020,icpr20,https://www.micc.unifi.it/icpr2020/,2020-07-15 23:59:00,UTC+1,"January 10-15, 2021","Milan, Italy",ML,,
+CoNLL,34,2020,conll2020,http://www.conll.org/2020,2020-07-17 23:59:59,UTC-12,"November 19-20, 2020",Online,NLP,,
+WMT,27,2020,wmt20,http://www.statmt.org/wmt20/,2020-08-15 23:59:00,UTC-12,"November 19-20, 2020",Online,NLP,,
+AAAI,95,2021,aaai21,https://aaai.org/Conferences/AAAI-21/,2020-09-09 23:59:59,UTC-12,"February 2-9, 2021","Vancouver, Canada",ML,,"<b>NOTE</b>: Mandatory abstract deadline on September 01, 2020"
+ICLR,150,2021,iclr21,http://iclr.cc/,2020-10-02 07:59:59,UTC-7,"May 4, 2021","Vienna, Austria",ML,2020-09-28 07:59:59,"<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
+<a href='https://iclr.cc/Conferences/2021/CallForPapers'>here</a>."
+EACL,36,2021,eacl21,https://2021.eacl.org/,2020-10-07 23:59:00,UTC-12,"April 21-23, 2021","Online (Kyiv, Ukraine)",NLP,,
+AAMAS,25,2021,aamas21,https://aamas2021.soton.ac.uk/,2020-10-09 23:59:59,UTC-12,"May 3-7, 2021","London, UK",ML,2020-10-02 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on Oct 02, 2020. More info <a href='https://aamas2021.soton.ac.uk/calls/papers/'>here</a>."
+SDM,33,2021,sdm21,https://www.siam.org/conferences/cm/conference/sdm21,2020-10-12 23:59:00,UTC-5,"April 29 - May 1, 2021",Online,DM,,
+AISTATS,52,2021,aistats21,https://www.aistats.org/aistats2021/,2020-10-15 08:00:00,America/Los_Angeles,"April 13-15, 2021","San Diego, California, USA",ML,,"<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2020. More info <a href='http://www.aistats.org/aistats2021/cfp.html'>here</a>."
+WWW,70,2021,www21,http://www2021.thewebconf.org/,2020-10-19 23:59:59,UTC-12,"April 19-23, 2021","Ljubljana, Slovenia",DM,,"<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020"
+NAACL,90,2021,naacl21,https://2021.naacl.org/,2020-11-23 23:59:00,UTC-12,"June 6-11, 2021","Mexico City, Mexico",NLP,,
+ICAPS,28,2021,icaps21,https://icaps21.icaps-conference.org/,2020-12-18 23:59:59,UTC-12,"June 7-12, 2021","Guangzhou, China",ML,2020-12-11 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on Dec 11, 2020. More info <a href='https://icaps21.icaps-conference.org/'>here</a>."
+CHIL,-1,2021,chil21,https://www.chilconference.org/,2021-01-14 23:59:59,UTC-12,"April 8-10, 2021",Online,ML,2021-01-10 23:59:59,"<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <a
+href='https://www.chilconference.org'>here</a>."
+IJCAI,67,2021,ijcai21,https://ijcai-21.org/,2021-01-20 23:59:59,UTC-12,"August 21-26, 2021","Montreal, Canada",ML,2021-01-13 23:59:59,
