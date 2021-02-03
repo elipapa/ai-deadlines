@@ -1,5 +1,6 @@
 title,hindex,year,id,link,deadline,timezone,date,place,sub,abstract_deadline,note
 ACL,135,2021,acl21,https://2021.aclweb.org/,2021-02-01 23:59:59,UTC-12,"August 2-4, 2021","Bangkok, Thailand",NLP,,
+AKBC,,2021,akbc21,https://www.akbc.ws/2021/,2021-05-01 23:59:59,UTC-12,"Early October 2021","Irvine",KG,,
 ICML,135,2021,icml21,https://icml.cc/Conferences/2021,2021-02-04 23:59:00,UTC-12,"July 18-24, 2021","Vienna, Austria",ML,2021-01-28 23:59:00,"<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href='https://icml.cc/Conferences/2021/'>here</a>."
 KDD,30,2021,kdd21,https://www.kdd.org/kdd2021/,2021-02-08 23:59:59,UTC-12,"August 14-18, 2021",Singapore,DM,,
 SIGIR,57,2021,sigir21,http://sigir.org/sigir2021/,2021-02-09 23:59:00,UTC-12,"July 11-15, 2021","Montreal, Canada",DM,2021-02-02 23:59:00,
@@ -10,8 +11,8 @@ LREC,45,2020,lrec20,https://lrec2020.lrec-conf.org/en/,2019-12-02 23:59:59,Europ
 COLT,48,2020,colt20,http://www.learningtheory.org/colt2020/,2020-01-31 16:00:00,America/Los_Angeles,"June 8-12, 2020","Graz, Austria",ML,,
 ICCC,22,2020,iccc20,http://computationalcreativity.net/iccc20/,2020-03-08 23:59:59,UTC-12,"June 29-July 3, 2020","Coimbra, Portugal",ML,,
 CIKM,48,2020,cikm20,https://cikm2020.org/,2020-05-01 23:59:59,UTC-12,"October 19-23, 2020","Galway, Ireland",DM,2020-04-24 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on Apr 24, 2020. More info <a href='https://cikm2020.org/call-for-papers-full-and-short-research-papers/'>here</a>."
-RecSys,45,2020,recsys20,https://recsys.acm.org/recsys20/,2020-06-01 23:59:59,UTC-12,"September 22-26, 2020",Online,DM,2020-05-25 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on May 25, 2020. More info <a href='https://recsys.acm.org/recsys20/dates/'>here</a>."
-EMNLP,88,2020,emnlp20,https://2020.emnlp.org/,2020-06-03 23:59:00,UTC-12,"November 16-20, 2020",Online,NLP,,
+RecSys,45,2021,recsys21,https://recsys.acm.org/recsys21/,2020-05-04 23:59:59,UTC-12,"September 27-Oct 1st, 2021",Amsterdam,DM,2020-04-27 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on April 27th, 2021. More info <a href='https://recsys.acm.org/recsys21/dates/'>here</a>."
+EMNLP,88,2021,emnlp21,https://2021.emnlp.org/,2021-05-10 23:59:00,UTC-12,"November 7-11, 2021","Dominican Republic/Online",NLP,,
 NeurIPS,169,2020,neurips20,https://nips.cc/Conferences/2020,2020-06-05 13:00:00,America/Los_Angeles,"December 6-12, 2020","Vancouver Convention Centre, Canada",ML,2020-05-27 13:00:00,"<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020"
 ICDM,44,2020,icdm20,http://icdm2020.bigke.org/,2020-06-11 23:59:59,UTC-7,"November 17-20, 2020","Sorrento, Italy",DM,,
 AACL-IJCNLP,-1,2020,aacl20,http://aacl2020.org,2020-06-26 23:59:00,UTC-12,"December 4-7, 2020","Suzhou, China",NLP,,
