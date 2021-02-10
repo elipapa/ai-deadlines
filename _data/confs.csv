@@ -28,7 +28,7 @@ ICLR,150,2021,iclr21,http://iclr.cc/,2020-10-02 07:59:59,UTC-7,"May 4, 2021","Vi
 ICLR - Geometrical & Topological Learning,150,2021,iclr21-gtlr,https://gt-rl.github.io/,2021-02-26 23:59:59,UTC-12,"May 4, 2021","Virtually",GRML,2020-09-28 07:59:59,"workshop"
 EACL,36,2021,eacl21,https://2021.eacl.org/,2020-10-07 23:59:00,UTC-12,"April 21-23, 2021","Online (Kyiv, Ukraine)",NLP,,
 AAMAS,25,2021,aamas21,https://aamas2021.soton.ac.uk/,2020-10-09 23:59:59,UTC-12,"May 3-7, 2021","London, UK",ML,2020-10-02 23:59:59,"<b>NOTE</b>: Mandatory abstract deadline on Oct 02, 2020. More info <a href='https://aamas2021.soton.ac.uk/calls/papers/'>here</a>."
-SDM,33,2021,sdm21,https://www.siam.org/conferences/cm/conference/sdm21,2020-10-12 23:59:00,UTC-5,"April 29 - May 1, 2021",Online,DM,,
+SDM,33,2021,sdm21,https://www.siam.org/conferences/cm/conference/sdm21,2020-10-05 23:59:00,UTC-5,"April 29 - May 1, 2021",Online,DM,,
 AISTATS,52,2021,aistats21,https://www.aistats.org/aistats2021/,2020-10-15 08:00:00,America/Los_Angeles,"April 13-15, 2021","San Diego, California, USA",ML,,"<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2020. More info <a href='http://www.aistats.org/aistats2021/cfp.html'>here</a>."
 WWW,70,2021,www21,http://www2021.thewebconf.org/,2020-10-19 23:59:59,UTC-12,"April 19-23, 2021","Ljubljana, Slovenia",DM,,"<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020"
 NAACL,90,2021,naacl21,https://2021.naacl.org/,2020-11-23 23:59:00,UTC-12,"June 6-11, 2021","Mexico City, Mexico",NLP,,
@@ -36,3 +36,6 @@ ICAPS,28,2021,icaps21,https://icaps21.icaps-conference.org/,2020-12-18 23:59:59,
 CHIL,-1,2021,chil21,https://www.chilconference.org/,2021-01-14 23:59:59,UTC-12,"April 8-10, 2021",Online,ML,2021-01-10 23:59:59,"<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <a
 href='https://www.chilconference.org'>here</a>."
 IJCAI,67,2021,ijcai21,https://ijcai-21.org/,2021-01-20 23:59:59,UTC-12,"August 21-26, 2021","Montreal, Canada",ML,2021-01-13 23:59:59,
+GRL+ @ ICML2020,,2021,grlplus20,https://grlplus.github.io/,2020-06-20 23:59:59,UTC-12,"Friday 17 July 2020","Virtual",GRML,,
+KR2ML @NeurIPS 20,,2020,kr2ml20,https://kr2ml.github.io/2020/,2020-10-09 23:59:59, UTC-12,"December 11 2020","Virtual,GRML,,
+BioNLP 2021 @ NAACL 2021,,2021,bionlp21,https://aclweb.org/aclwiki/BioNLP_Workshop,2021-03-21 23:59:00,UTC-5,"June 11, 2021","Mexico City, Mexico",NLP,,
